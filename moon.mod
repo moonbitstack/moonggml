@@ -1,15 +1,15 @@
-name = "moonbitstack/CHANGE-ME"
+name = "moonbitstack/moonggml"
 
 version = "0.1.0"
 
 readme = "README.md"
 
-repository = "https://github.com/moonbitstack/CHANGE-ME"
+repository = "https://github.com/moonbitstack/moonggml"
 
 license = "Apache-2.0"
 
-keywords = [ "moonbit" ]
+keywords = [ "tensor", "graph", "inference", "webgpu", "moonbit" ]
 
-description = "One sentence saying what this is and what it is not."
+description = "moonggml — tensors, computation graphs, and the schedule that runs them, on CPU and on WebGPU."
 
 preferred_target = "wasm-gc"
