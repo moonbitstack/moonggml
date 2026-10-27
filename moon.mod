@@ -10,6 +10,6 @@ license = "Apache-2.0"
 
 keywords = [ "tensor", "graph", "inference", "webgpu", "moonbit" ]
 
-description = "moonggml — tensors, computation graphs, and the schedule that runs them, on CPU and on WebGPU."
+description = "Tensors and computation graphs for MoonBit, on CPU and WebGPU."
 
 source = "src"
