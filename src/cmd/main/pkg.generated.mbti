@@ -1,8 +1,7 @@
 // Generated using `moon info`, DON'T EDIT IT
-package "moonbitstack/moonggml/lib"
+package "moonbitstack/moonggml/cmd/main"
 
 // Values
-pub fn greet(StringView) -> String
 
 // Errors
 
